@@ -1,1 +1,2 @@
 # Heart_Disease_Prediction_Model
+This project entails the development of a machine learning model in Python to accurately predict the risk of heart disease in patients using various clinical and demographic features. The solution involves data preprocessing, feature selection, training and evaluation of multiple machine learning models..The resulting model is intended to support healthcare decision-making and improve patient outcomes by informing early detection and effective management of heart disease. 
